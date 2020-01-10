@@ -1,5 +1,5 @@
 # start-of-line-finder
-This is the tensorflow and keras implementation of SOL_finder part of the [1]
+This is the tensorflow and keras implementation of SOL_finder part of [1]
 
 **What is start of line finder ?** <br /> Given a handwritten document image a Region Proposal Network predict start positions of text lines
 
