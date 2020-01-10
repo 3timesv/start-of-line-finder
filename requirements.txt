@@ -1,0 +1,9 @@
+tensorflow : 1.15.0
+scipy
+matplotlib
+numpy
+time
+json
+cv2
+yaml
+os
